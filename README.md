@@ -8,12 +8,6 @@
 
 <br>
 <br>
-<div align="center">
-    
-[Email Me](fabiodipietro1979@outlook.it)
-</div>
-</p>    
-<br>
 <!-- Languages and Tools -->
 
 <h2>⚙️ Languages and Tools</h2>
