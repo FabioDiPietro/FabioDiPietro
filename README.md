@@ -1,19 +1,22 @@
-<h1 style="color: #44AEFB;"> Hi there 👋, I'm Fabio</h1>
 
+<h1 align="center"> Hi there 👋, I'm Fabio</h1>
+<div align="center">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, backend developer. With a strong passion for coding and problem-solving
+<h2 align="center">I am a passionate, backend developer. With a strong passion for coding and problem-solving</h2>  
+
 <br>
 <br>
 <div align="center">
-
+    
 [Email Me](fabiodipietro1979@outlook.it)
 </div>
 </p>    
 <br>
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h2>⚙️ Languages and Tools</h2>
 <br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
