@@ -50,14 +50,14 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDiPietro&layout=compact&show_icons=true&&show_icons=true&theme=darcula)
 </div>
 
-
+[![FabioDiPietro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FabioDiPietro&theme=xcode)](https://github.com/FabioDiPietro/github-readme-activity-graph)
 ---
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
     <a href="mailto:fabiodipietro1979@outlook.it" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+        <img src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
 </div>
 <!-- End Footer -->
